@@ -1,0 +1,5 @@
+C:/Users/MCALab/Desktop/STM32/TXRXUR/CMakeFiles/TXRXUR.dir
+C:/Users/MCALab/Desktop/STM32/TXRXUR/CMakeFiles/edit_cache.dir
+C:/Users/MCALab/Desktop/STM32/TXRXUR/CMakeFiles/rebuild_cache.dir
+C:/Users/MCALab/Desktop/STM32/TXRXUR/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/MCALab/Desktop/STM32/TXRXUR/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

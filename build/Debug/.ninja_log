@@ -1,0 +1,25 @@
+# ninja log v5
+13	495	7652696415354336	CMakeFiles/TXRXUR.dir/Core/Src/gpio.c.obj	5b1eefbb920a8d14
+16	615	7652696416152199	CMakeFiles/TXRXUR.dir/Core/Src/usart.c.obj	87e7e5832d1b0f3e
+30	498	7652696415483985	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	750446175d3d9a63
+36	470	7652696415224676	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	ed3177b560113420
+19	507	7652696415424150	CMakeFiles/TXRXUR.dir/Core/Src/stm32f1xx_it.c.obj	8810d43f8b38cec3
+21	476	7652696415284517	CMakeFiles/TXRXUR.dir/Core/Src/stm32f1xx_hal_msp.c.obj	c36d10011f645b4e
+33	486	7652696415214709	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	a57c06183d2c0621
+10	481	7652696415334395	CMakeFiles/TXRXUR.dir/Core/Src/main.c.obj	24adda0762400297
+1043	1255	7652696423022244	TXRXUR.elf	c62016f71964158
+24	504	7652696415454063	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	613b04dfdd8f5459
+28	490	7652696415324407	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	4077dc76c69ae0fb
+507	839	7652696418815076	CMakeFiles/TXRXUR.dir/Core/Src/sysmem.c.obj	c5cfbcd2590993ed
+487	849	7652696418894864	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	337647a191ccae6d
+470	867	7652696419064410	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	1b8d270799c1bcd
+481	874	7652696419134229	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	7a34e349abe51d0b
+498	856	7652696418974647	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	f7364230d6df09a7
+495	868	7652696419243935	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	4b50625192aaa203
+504	877	7652696419343671	CMakeFiles/TXRXUR.dir/Core/Src/system_stm32f1xx.c.obj	8b71a46abbadacca
+490	876	7652696419214013	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	c7f7b57f99aef382
+476	901	7652696419658786	CMakeFiles/TXRXUR.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	60d721f61631f865
+839	930	7652696419981123	CMakeFiles/TXRXUR.dir/startup_stm32f103xb.s.obj	f5442ee8e0350c65
+616	1043	7652696421105772	CMakeFiles/TXRXUR.dir/Core/Src/syscalls.c.obj	430da97ca716e70f
+2	17	0	clean	5c1d2a0083349566
+14	428	7653638766785697	build.ninja	3088c6ce3b4cb0fa
